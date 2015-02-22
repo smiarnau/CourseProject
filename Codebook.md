@@ -1,11 +1,12 @@
 
 Raw data is the different measurements of 30 subjects doing 6 different activities.
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
+
 
 The measurements are features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 Those features are then transformed to obtain a body and gravity acceleration signals. The raw data contains the mean and standard deviation of each variable.
