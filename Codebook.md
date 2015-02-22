@@ -7,14 +7,14 @@ Raw data is the different measurements of 30 subjects doing 6 different activiti
 5 STANDING
 6 LAYING
 
-The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+The measurements are features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 Those features are then transformed to obtain a body and gravity acceleration signals. The raw data contains the mean and standard deviation of each variable.
 
 The result is a measurement for each subject and each activity of the mean of each of the observations.
 
 
 
-*** Variables 
+*** Variables (data was normalised)
 
 tBodyAcc.mean()-X
 
